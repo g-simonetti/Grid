@@ -40,6 +40,8 @@ COMPACT_WILSON_IMPL_LIST=" \
 DWF_IMPL_LIST=" \
            SpWilsonImplF \
            SpWilsonImplD \
+	   SpWilsonTwoIndexAntiSymmetricImplF \
+           SpWilsonTwoIndexAntiSymmetricImplD \
            WilsonImplF \
            WilsonImplD \
            WilsonImplD2 \
